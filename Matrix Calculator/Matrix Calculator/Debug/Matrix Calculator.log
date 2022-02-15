@@ -1,0 +1,10 @@
+﻿  Matrix Calculator.cpp
+C:\Users\user\source\repos\Matrix Calculator\Matrix Calculator\Matrix Calculator.cpp(73,41): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\user\source\repos\Matrix Calculator\Matrix Calculator\Matrix Calculator.cpp(87,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\user\source\repos\Matrix Calculator\Matrix Calculator\Matrix Calculator.cpp(91,9): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\user\source\repos\Matrix Calculator\Matrix Calculator\Matrix Calculator.cpp(215,84): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\user\source\repos\Matrix Calculator\Matrix Calculator\Matrix Calculator.cpp(220,84): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\user\source\repos\Matrix Calculator\Matrix Calculator\Matrix Calculator.cpp(277,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\user\source\repos\Matrix Calculator\Matrix Calculator\Matrix Calculator.cpp(287,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\user\source\repos\Matrix Calculator\Matrix Calculator\Matrix Calculator.cpp(303,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Matrix Calculator.vcxproj -> C:\Users\user\source\repos\Matrix Calculator\Debug\Matrix Calculator.exe
